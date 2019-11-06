@@ -9,7 +9,7 @@ int main(){
 
     int num;
     double *vet;
-
+bn xcb xzbchbzxnczxb
     scanf("%d", &num);
     num++;
     vet = malloc(num  * sizeof(double));
